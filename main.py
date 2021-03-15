@@ -1,2 +1,2 @@
-a="test";
-print('a');
+Bienvenue ="Bienvenue ici !";
+print('Bienvenue');
